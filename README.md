@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<!-- Space Shooter name banner — commit name_banner.png to your repo root -->
+<img src="name_banner.png" alt="Yu Yin C. — Space Shooter Banner" width="860"/>
+<br/>
 
-<!--
-**YuYinCheong/YuYinCheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Statistics · Machine Learning
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛸 Connect With Me
+<br/>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yu%20Yin%20C.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuyinc/)
+&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-yy.yuyincheong%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yy.yuyincheong@gmail.com)
+</div>
