@@ -16,8 +16,8 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="22" height="22" alt="" /> Java &nbsp;&nbsp; SQL |
-| **Frameworks & Libraries** | <img src="https://cdn.simpleicons.org/django/44B78B" width="22" height="22" alt="" /> Django &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/pandas/8B77D1" width="22" height="22" alt="" /> pandas |
-| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="22" height="22" alt="" /> MySQL |
+**Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="20" alt="" /> Python · SQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="20" alt="" /> Java
+
+**Frameworks & Libraries:** <img src="https://cdn.simpleicons.org/django/44B78B" width="20" alt="" /> Django · <img src="https://cdn.simpleicons.org/pandas/8B77D1" width="20" alt="" /> pandas
+
+**Database:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="20" alt="" /> MySQL
