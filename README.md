@@ -14,14 +14,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-yy.yuyincheong%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yy.yuyincheong@gmail.com)
 </div>
 
-## 🚀 Selected Projects & Research
-
-| Project | My contribution |
-| --- | --- |
-| **iHMP2DiabetesData — Diabetes Data Explorer** | Processed 961 files for the Chalk-Carey research team and organized clinical, metabolomics, and lipidomics records by participant and visit in MySQL. The team’s Django apps let researchers explore the data and download it as JSON-LD. |
-| **Housing Price Analysis** | Used multiple linear regression to study how floor area, amenities, and location relate to house prices. Compared models and checked their assumptions before interpreting the results. |
-| **Clinic Waiting Room** | Built a Java tool that loads and validates patient records from CSV files. Created a generator that produces 555 sample records for testing. |
-
 ## 🛠️ Tech Stack
 
 **Languages:** Python · SQL · Java  
