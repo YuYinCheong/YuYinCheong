@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Space Shooter name banner — commit name_banner.png to your repo root -->
-<img src="name_banner.png" alt="Yu Yin C. — Space Shooter Banner" width="860"/>
+<img src="name_banner.gif" alt="Yu Yin C. — Space Shooter Banner" width="860"/>
 <br/>
 
 ### Statistics · Machine Learning
